@@ -21,6 +21,11 @@ Poor alignment with exam, university application, and visa deadlines
 
 This prototype addresses these issues by converting preparation into a game-like, time-aware learning journey.
 
+## Deployment
+- npm i
+- npm run dev
+  
+
 ## Core Concept
 
 Preparation is broken into daily micro-learning levels
